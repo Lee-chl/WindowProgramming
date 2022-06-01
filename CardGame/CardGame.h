@@ -1,4 +1,4 @@
-﻿
+
 // CardGame.h: PROJECT_NAME 애플리케이션에 대한 주 헤더 파일입니다.
 //
 
